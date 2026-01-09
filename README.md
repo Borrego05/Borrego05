@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre Mi
 
-Apasionado por el desarrollo de software y el trabajo con datos, me motiva convertir información y requerimientos complejos en soluciones claras, eficientes y escalables. Actualmente curso octavo semestre de Ingeniería en Sistemas y cuento con experiencia práctica en desarrollo backend, analítica de datos y visualización con Power BI, siempre bajo un enfoque de buenas prácticas y mejora continua.
+Apasionado por el desarrollo de software y el trabajo con datos, me motiva convertir información y requerimientos complejos en soluciones claras, eficientes y escalables. Actualmente curso noveno semestre de Ingeniería en Sistemas y cuento con experiencia práctica en desarrollo backend, analítica de datos y visualización con Power BI, siempre bajo un enfoque de buenas prácticas y mejora continua.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
